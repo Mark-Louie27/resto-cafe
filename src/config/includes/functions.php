@@ -1,9 +1,9 @@
 <?php
-include_once __DIR__ . '/../config/database.php';
+include_once __DIR__ . '/../../config/database.php';
 
-require __DIR__ . '/../libs/PHPMailer/src/PHPMailer.php';
-require __DIR__ . '/../libs/PHPMailer/src/SMTP.php';
-require __DIR__ . '/../libs/PHPMailer/src/Exception.php';
+require __DIR__ . '/../../libs/PHPMailer/src/PHPMailer.php';
+require __DIR__ . '/../../libs/PHPMailer/src/SMTP.php';
+require __DIR__ . '/../../libs/PHPMailer/src/Exception.php';
 
 
 // Enhanced session handling with more secure defaults

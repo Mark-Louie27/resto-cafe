@@ -1,4 +1,9 @@
  <?php
+
+class CustomerController
+{
+    
+}
     function handle_update_customer()
     {
         $conn = db_connect();
