@@ -1,9 +1,0 @@
-log_id,inventory_id,user_id,action,amount,notes,created_at
-1,1,48,restock,25.00,"Initial stock","2025-04-26 10:24:51"
-2,2,48,restock,15.00,"Initial stock","2025-04-26 10:24:51"
-3,3,48,restock,5.00,"Initial stock","2025-04-26 10:24:51"
-4,4,48,restock,10.00,"Initial stock","2025-04-26 10:24:51"
-5,5,48,restock,60.00,"Initial stock","2025-04-26 10:24:51"
-6,1,48,update,-2.50,"Used for baking","2025-04-26 10:24:51"
-7,2,48,update,-1.20,"Used for baking","2025-04-26 10:24:51"
-8,5,48,update,-12.00,"Used for baking","2025-04-26 10:24:51"

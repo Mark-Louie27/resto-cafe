@@ -1,6 +1,0 @@
-inventory_id,item_name,quantity,unit,cost_per_unit,reorder_level,supplier_id,last_restock_date,expiry_date,storage_location
-1,Flour,50.00,kg,1.20,10.00,,2025-04-20,2025-10-20,"Dry Storage A"
-2,Sugar,30.00,kg,0.80,5.00,,2025-04-18,2026-04-18,"Dry Storage B"
-3,"Coffee Beans",15.00,kg,12.50,3.00,,2025-04-27,2025-10-15,"Cool Storage"
-4,Milk,20.00,liters,1.10,5.00,,2025-04-22,2025-04-29,Refrigerator
-5,Eggs,120.00,pieces,0.25,30.00,,2025-04-21,2025-05-05,Refrigerator

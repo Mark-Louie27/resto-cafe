@@ -1,4 +1,0 @@
-table_id,table_number,capacity,location,status
-1,T1,4,Indoor,Available
-2,T2,6,Indoor,Reserved
-3,T3,2,Outdoor,Reserved

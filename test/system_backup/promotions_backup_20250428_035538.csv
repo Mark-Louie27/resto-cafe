@@ -1,2 +1,0 @@
-promotion_id,name,description,discount_type,discount_value,start_date,end_date,min_purchase,is_active,created_at,created_by
-1,"10% off","Worth it Ba",Percentage,10.00,2025-04-27,2025-04-30,100.00,1,"2025-04-27 19:00:21",5

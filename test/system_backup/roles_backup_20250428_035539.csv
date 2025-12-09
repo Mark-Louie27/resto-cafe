@@ -1,5 +1,0 @@
-role_id,role_name,description
-1,admin,"System administrator with full access"
-2,manager,"Restaurant manager with high-level access"
-3,staff,"Regular staff member"
-4,customer,"Regular customer"

@@ -1,2 +1,0 @@
-reservation_id,customer_id,table_id,reservation_date,start_time,end_time,party_size,status,notes,created_at
-4,29,2,2025-04-30,11:30:00,13:30:00,2,Confirmed,"make it special","2025-04-26 21:13:03"

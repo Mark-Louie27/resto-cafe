@@ -1,6 +1,0 @@
-item_id,category_id,name,description,price,cost,image_url,is_available,prep_time,calories,allergens,created_at,updated_at
-2,1,cupcake,"e efqnwaefhb",12.00,5.00,/../assets/Uploads/menu/item680885a8d527b.png,1,,23,0,"2025-04-23 09:14:08","2025-04-23 16:28:03"
-3,1,"Chocolate Cake","Rich chocolate cake with buttercream frosting",8.99,3.00,/../assets/Uploads/menu/item680c449755752.png,1,15,450,0,"2025-04-26 10:26:51","2025-04-26 10:27:35"
-4,1,Cheesecake,"Classic New York style cheesecake",9.99,4.00,/../assets/Uploads/menu/item680c448896b6e.png,1,10,520,0,"2025-04-26 10:26:51","2025-04-26 10:27:20"
-5,,Espresso,"Single shot of premium espresso",2.50,0.80,/assets/images/espresso.jpg,1,5,5,,"2025-04-26 10:26:51","2025-04-26 10:26:51"
-6,,Cappuccino,"Espresso with steamed milk and foam",3.99,1.20,/assets/images/cappuccino.jpg,1,7,120,dairy,"2025-04-26 10:26:51","2025-04-26 10:26:51"
